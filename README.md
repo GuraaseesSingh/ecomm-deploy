@@ -1,4 +1,6 @@
 # ecomm-deploy
+Deployed-Live:https://ecomm-deploy.onrender.com/
+
 
 ## Overview
 **ecomm-deploy** is a full-stack eCommerce website built using the **MERN** stack (MongoDB, Express.js, React.js, and Node.js). This project includes authentication, product management, and a cart system. The payment integration is currently pending.
